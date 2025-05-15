@@ -1,8 +1,8 @@
-# Advanced Data Analysis Challenge 2: XYZ Corp. Operational Intelligence Dashboard
+# Advanced Data Analysis Challenge 2:Corp. Operational Intelligence Dashboard
 
 ## 🚀 Project Overview
 
-This project addresses the **Advanced Data Analysis - Challenge 2**, focusing on XYZ Corp., a company managing thousands of employees across numerous projects in different countries. In 2024, the executive management observed alarming indicators: high employee attrition rates in some locations, imbalanced team workloads, escalating operational costs without clear explanations, and difficulties in predicting HR efficiency for new projects.
+This project addresses the **Advanced Data Analysis - Challenge 2**, focusing on  Corp., a company managing thousands of employees across numerous projects in different countries. In 2024, the executive management observed alarming indicators: high employee attrition rates in some locations, imbalanced team workloads, escalating operational costs without clear explanations, and difficulties in predicting HR efficiency for new projects.
 
 This project involved developing an **intelligent automation system** using Power BI to analyze raw data, identify root causes of these issues, design "What-if" scenarios, and propose actionable solutions for 2025 to enhance operational decision-making.
 
